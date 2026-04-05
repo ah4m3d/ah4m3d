@@ -1,4 +1,4 @@
-# Ahamed A C (Mikael)
+# Mikael Ahamed (Ahamed AC)
 
 **Senior Backend & Platform Engineer** · Distributed Systems · Kafka · Kubernetes · Cloud-Native
 

@@ -1,44 +1,123 @@
-# Ahamed A C (Mikael) | Senior Backend & Platform Engineer
-### Distributed Systems | Kafka | Kubernetes | Cloud-Native Architectures
+# Ahamed A C (Mikael)
 
-[cite_start]I am a **Senior Backend Engineer** with over 5.5 years of experience building high-availability, cloud-native systems[cite: 6]. [cite_start]I specialize in migrating legacy architectures to modern, event-driven platforms and implementing AI-enabled backend solutions[cite: 7, 9].
+**Senior Backend & Platform Engineer** · Distributed Systems · Kafka · Kubernetes · Cloud-Native
 
----
-
-### 🏆 Professional Impact
-* [cite_start]☁️ **Cloud Migration Leader:** Spearheaded the zero-downtime migration of **180+ microservices** to **AWS EKS**, achieving 99.99% availability and a **30% reduction in infrastructure costs**[cite: 8, 11, 23].
-* [cite_start]⚡ **Performance Optimization:** Reduced **P95 API latency by 40%** through Kafka-based event-driven architecture and GraphQL service aggregation[cite: 12, 24].
-* [cite_start]🛡️ **Platform Security & Governance:** Architected enterprise API gateway solutions using **Apigee**, implementing OAuth2 authentication, rate limiting, and threat protection[cite: 25, 41].
-* [cite_start]🤖 **AI Integration:** Developed enterprise-grade AI chatbots using **IBM watsonx.ai** integrated with backend microservices[cite: 9, 32].
+India · +91 7994573088 · acahamed57@gmail.com · [LinkedIn](https://linkedin.com/in/ahamed-ac-744aa2195) · [GitHub](https://github.com/ah4m3d)
 
 ---
 
-### 🛠️ Technical Arsenal
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | [cite_start]Java (Expert), Node.js, SQL [cite: 15] |
-| **Backend** | [cite_start]Spring Boot, GraphQL, REST APIs, Microservices [cite: 16, 17] |
-| **Cloud & DevOps** | [cite_start]AWS EKS, Kubernetes, Tekton, Bamboo, Datadog, Splunk [cite: 17, 18, 19] |
-| **Data & Messaging** | [cite_start]Apache Kafka (Partitioning, DLQ), PostgreSQL, Redis, MongoDB [cite: 18, 26] |
-| **AI/Dev Tooling** | [cite_start]Cursor AI, GitHub Copilot, n8n Automation [cite: 20] |
-| **Experimental** | Antigravity (for effortless vertical scaling) |
+## About
+
+Senior Backend / Platform Engineer with **5.6 years** of experience building cloud-native distributed systems using Java, Spring Boot, Kafka, and Kubernetes. Experienced in large-scale microservices migrations, event-driven architectures, and platform modernization. Led migration of 180+ microservices to AWS EKS achieving 99.99% availability. Experienced in AI-enabled backend systems and healthcare interoperability standards (FHIR).
 
 ---
 
-### 📂 Architecture & Projects
-* [cite_start]🏗️ **Event-Driven Platforms:** Kafka-based asynchronous processing architectures enabling scalable microservices[cite: 7, 26, 40].
-* [cite_start]🏥 **Healthcare Interoperability:** Refactoring legacy services into modular, **FHIR-compliant** microservices[cite: 9, 30].
-* [cite_start]🗺️ **Service Aggregation:** Implementing GraphQL layers to optimize data fetching and reduce backend load[cite: 8, 27, 42].
+## Key Achievements
+
+| Metric | Result |
+|--------|--------|
+| Microservices migrated to AWS EKS | **180+** with zero downtime |
+| Platform availability post-migration | **99.99%** |
+| P95 API latency reduction | **40%** via Kafka event-driven architecture |
+| Infrastructure cost reduction | **~30%** through cloud-native deployments |
+| MTTR improvement | **60%** via Datadog + Splunk observability |
 
 ---
 
-### 🎙️ Beyond the Code
-* **Podcast:** Host of **"The Pixel Of Life with Mikeal Ahamed" (PXLM)** — exploring personal growth and technology.
-* **Interests:** Quantitative trading (scalping), automotive hardware, and high-fidelity audio gear.
-* [cite_start]**Education:** Currently pursuing **Master of Computer Applications (MCA)** at Amity University[cite: 44].
+## Tech Stack
+
+**Languages:** Java · Node.js · TypeScript · Python · Go
+
+**Frameworks & APIs:** Spring Boot · GraphQL · REST APIs · Spring AI
+
+**Architecture:** Microservices · Distributed Systems · Event-Driven Architecture · System Design
+
+**Cloud & Platforms:** AWS · Azure · Kubernetes (EKS) · Apigee
+
+**Messaging & Databases:** Kafka · PostgreSQL · MongoDB · Redis · Prisma
+
+**DevOps & CI/CD:** Git · Bamboo · Tekton Pipelines
+
+**Observability:** Datadog · Splunk
+
+**Security & DevSecOps:** OAuth2 · Snyk · Checkmarx · Prisma Cloud
+
+**AI & Dev Tooling:** Cursor AI · GitHub Copilot · IBM watsonx.ai · Ollama · Spring AI
 
 ---
 
-### 📫 Connect with Me
-* 💼 [LinkedIn](https://linkedin.com/in/ahamed-ac-744aa2195) 
-* [cite_start]📧 [acahamed57@gmail.com](mailto:acahamed57@gmail.com) [cite: 3]
+## Featured Projects
+
+### [AI-trade](https://github.com/ah4m3d/AI-trade) `TypeScript`
+An AI-powered trading platform built with Next.js, featuring live charts, real-time market data via Yahoo Finance, and an intelligent trading system. Includes Prisma ORM for data persistence and a full component architecture with hooks and custom libraries.
+
+### [spring-ai-project](https://github.com/ah4m3d/spring-ai-project) `Java · HTML`
+A Spring Boot application integrating with Ollama's local LLM (llama3) for interactive AI chat. Features a clean responsive web UI, REST API endpoints, Java 24 compatibility, and optional Stable Diffusion image generation support.
+
+### [CRYPTO_BINANCE](https://github.com/ah4m3d/CRYPTO_BINANCE) `TypeScript · Go`
+A microservices-based crypto trading system integrated with the Binance API. Built with TypeScript and Go, includes multiple independent services, a Next.js frontend, shell scripts for service orchestration, and environment-based configuration.
+
+### [compare_excel_ai](https://github.com/ah4m3d/compare_excel_ai) `Python`
+An AI-powered Excel comparison tool. Uses an LLM summariser module to intelligently diff and summarize changes across spreadsheets — useful for audit trails, data reconciliation, and change detection workflows.
+
+### [AI-Eng-BootCamp](https://github.com/ah4m3d/AI-Eng-BootCamp)
+AI engineering bootcamp exercises and experiments — a personal learning lab for AI/ML engineering patterns and integrations.
+
+### [ScanAI-Pro](https://github.com/ah4m3d/ScanAI-Pro)
+An AI-powered scanning and document intelligence tool.
+
+---
+
+## Experience
+
+### UST Global — Senior Backend Engineer
+`Nov 2021 – Present`
+
+- Led migration of **180+ production microservices** from on-premise to AWS EKS achieving 99.99% platform availability and reducing infrastructure costs by ~30%
+- Designed and built high-throughput backend services using Java, Spring Boot, and Kafka reducing **P95 API latency by 40%**
+- Architected API gateway solutions using **Apigee** implementing OAuth2 authentication, rate limiting, and threat protection
+- Built Kafka-based event-driven processing pipelines with partitioning, consumer groups, retries, and DLQ mechanisms
+- Refactored legacy services during EDP migration replacing direct database calls with a **GraphQL aggregation layer**
+- Implemented Redis caching at the Apigee gateway layer improving API response performance and reducing backend load
+- Optimized request processing using multithreaded and asynchronous execution patterns improving throughput
+- Refactored legacy DCS services into modular microservices aligned with **FHIR-compliant** response structures
+- Developed an **AI-powered enterprise chatbot** using IBM watsonx.ai integrated with backend microservices
+- Implemented observability using Datadog and Splunk reducing **MTTR by 60%**
+
+### AxisRooms — Associate Java Developer
+`Jan 2020 – Jan 2021`
+
+- Developed backend services for reservation and billing systems using Java and Spring
+- Improved platform uptime by **15%** through performance optimization and issue resolution
+- Designed REST APIs and optimized database queries for improved system performance
+- Automated build and deployment pipelines improving release reliability
+
+---
+
+## Architecture Highlights
+
+**Cloud Migration** — Zero-downtime migration of 180+ microservices to AWS EKS using blue-green deployment strategies.
+
+**Event-Driven Platform** — Kafka-based asynchronous processing architecture enabling scalable microservices with partitioning, DLQ, and consumer group management.
+
+**API Platform** — Enterprise API gateway architecture using Apigee with OAuth2 authentication, rate limiting, and Redis caching.
+
+**Performance Optimization** — GraphQL service aggregation with Redis caching and multithreaded processing for reduced latency and backend load.
+
+---
+
+## Education
+
+- **Master of Computer Applications (MCA)** — Amity University *(Pursuing)*
+- **Bachelor of Science in Computer Science** — Kannur University
+
+---
+
+## Beyond the Code
+
+- **Podcast:** Host of *The Pixel Of Life with Mikeal Ahamed (PXLM)* — exploring personal growth and technology
+- **Interests:** Quantitative trading (scalping) · Automotive hardware · High-fidelity audio
+
+---
+
+*Open to new opportunities — feel free to reach out at acahamed57@gmail.com*
